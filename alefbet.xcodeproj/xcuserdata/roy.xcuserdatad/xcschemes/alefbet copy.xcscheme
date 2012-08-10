@@ -14,7 +14,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B07181F315713FC200E62CB3"
-               BuildableName = "alefbet copy.app"
+               BuildableName = "alefbet full.app"
                BlueprintName = "alefbet.full"
                ReferencedContainer = "container:alefbet.xcodeproj">
             </BuildableReference>
@@ -32,7 +32,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B07181F315713FC200E62CB3"
-            BuildableName = "alefbet copy.app"
+            BuildableName = "alefbet full.app"
             BlueprintName = "alefbet.full"
             ReferencedContainer = "container:alefbet.xcodeproj">
          </BuildableReference>
@@ -44,14 +44,13 @@
       launchStyle = "0"
       useCustomWorkingDirectory = "NO"
       buildConfiguration = "Debug"
-      ignoresPersistentStateOnLaunch = "NO"
       debugDocumentVersioning = "YES"
       allowLocationSimulation = "YES">
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B07181F315713FC200E62CB3"
-            BuildableName = "alefbet copy.app"
+            BuildableName = "alefbet full.app"
             BlueprintName = "alefbet.full"
             ReferencedContainer = "container:alefbet.xcodeproj">
          </BuildableReference>
@@ -69,7 +68,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B07181F315713FC200E62CB3"
-            BuildableName = "alefbet copy.app"
+            BuildableName = "alefbet full.app"
             BlueprintName = "alefbet.full"
             ReferencedContainer = "container:alefbet.xcodeproj">
          </BuildableReference>

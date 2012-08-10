@@ -7,6 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B07181F515713FC200E62CB3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B0CC390F156F50830042DDFC /* main.m */; };
+		B07181F615713FC200E62CB3 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B0CC3937156F50840042DDFC /* AppDelegate.m */; };
+		B07181F715713FC200E62CB3 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B0CC393A156F50840042DDFC /* MainViewController.m */; };
+		B07181F915713FC200E62CB3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC38EF156F50830042DDFC /* Foundation.framework */; };
+		B07181FA15713FC200E62CB3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC38F1156F50830042DDFC /* UIKit.framework */; };
+		B07181FB15713FC200E62CB3 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC38F3156F50830042DDFC /* CoreGraphics.framework */; };
+		B07181FC15713FC200E62CB3 /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC38F5156F50830042DDFC /* AddressBook.framework */; };
+		B07181FD15713FC200E62CB3 /* AddressBookUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC38F7156F50830042DDFC /* AddressBookUI.framework */; };
+		B07181FE15713FC200E62CB3 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC38F9156F50830042DDFC /* AudioToolbox.framework */; };
+		B07181FF15713FC200E62CB3 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC38FB156F50830042DDFC /* AVFoundation.framework */; };
+		B071820015713FC200E62CB3 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC38FD156F50830042DDFC /* CoreLocation.framework */; };
+		B071820115713FC200E62CB3 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC38FF156F50830042DDFC /* MediaPlayer.framework */; };
+		B071820215713FC200E62CB3 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC3901156F50830042DDFC /* QuartzCore.framework */; };
+		B071820315713FC200E62CB3 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC3903156F50830042DDFC /* SystemConfiguration.framework */; };
+		B071820415713FC200E62CB3 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC3905156F50830042DDFC /* MobileCoreServices.framework */; };
+		B071820515713FC200E62CB3 /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC3907156F50830042DDFC /* CoreMedia.framework */; };
+		B071820815713FC200E62CB3 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B0CC390C156F50830042DDFC /* InfoPlist.strings */; };
+		B071820915713FC200E62CB3 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = B0CC3916156F50830042DDFC /* Localizable.strings */; };
+		B071820A15713FC200E62CB3 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = B0CC391A156F50830042DDFC /* Localizable.strings */; };
+		B071820B15713FC200E62CB3 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = B0CC391E156F50830042DDFC /* Localizable.strings */; };
+		B071820C15713FC200E62CB3 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = B0CC3922156F50830042DDFC /* Localizable.strings */; };
+		B071820D15713FC200E62CB3 /* icon.png in Resources */ = {isa = PBXBuildFile; fileRef = B0CC3926156F50830042DDFC /* icon.png */; };
+		B071820E15713FC200E62CB3 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = B0CC3928156F50830042DDFC /* icon@2x.png */; };
+		B071820F15713FC200E62CB3 /* icon-72.png in Resources */ = {isa = PBXBuildFile; fileRef = B0CC392A156F50830042DDFC /* icon-72.png */; };
+		B071821015713FC200E62CB3 /* Default~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = B0CC392D156F50840042DDFC /* Default~iphone.png */; };
+		B071821115713FC200E62CB3 /* Default@2x~iphone.png in Resources */ = {isa = PBXBuildFile; fileRef = B0CC392F156F50840042DDFC /* Default@2x~iphone.png */; };
+		B071821215713FC200E62CB3 /* Capture.bundle in Resources */ = {isa = PBXBuildFile; fileRef = B0CC3931156F50840042DDFC /* Capture.bundle */; };
+		B071821315713FC200E62CB3 /* Cordova.plist in Resources */ = {isa = PBXBuildFile; fileRef = B0CC3933156F50840042DDFC /* Cordova.plist */; };
+		B071821415713FC200E62CB3 /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B0CC393C156F50840042DDFC /* MainViewController.xib */; };
+		B071821615713FC200E62CB3 /* www in Resources */ = {isa = PBXBuildFile; fileRef = B0F5B44B156F54DE00DFFFED /* www */; };
 		B0CC38F0156F50830042DDFC /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC38EF156F50830042DDFC /* Foundation.framework */; };
 		B0CC38F2156F50830042DDFC /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC38F1156F50830042DDFC /* UIKit.framework */; };
 		B0CC38F4156F50830042DDFC /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC38F3156F50830042DDFC /* CoreGraphics.framework */; };
@@ -22,7 +52,6 @@
 		B0CC3908156F50830042DDFC /* CoreMedia.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC3907156F50830042DDFC /* CoreMedia.framework */; };
 		B0CC390E156F50830042DDFC /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = B0CC390C156F50830042DDFC /* InfoPlist.strings */; };
 		B0CC3910156F50830042DDFC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B0CC390F156F50830042DDFC /* main.m */; };
-		B0CC3913156F50830042DDFC /* Cordova.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B0CC3912156F50830042DDFC /* Cordova.framework */; };
 		B0CC3918156F50830042DDFC /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = B0CC3916156F50830042DDFC /* Localizable.strings */; };
 		B0CC391C156F50830042DDFC /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = B0CC391A156F50830042DDFC /* Localizable.strings */; };
 		B0CC3920156F50830042DDFC /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = B0CC391E156F50830042DDFC /* Localizable.strings */; };
@@ -37,11 +66,55 @@
 		B0CC3938156F50840042DDFC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B0CC3937156F50840042DDFC /* AppDelegate.m */; };
 		B0CC393B156F50840042DDFC /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B0CC393A156F50840042DDFC /* MainViewController.m */; };
 		B0CC393D156F50840042DDFC /* MainViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = B0CC393C156F50840042DDFC /* MainViewController.xib */; };
-		B0CC3941156F50840042DDFC /* verify.sh in Resources */ = {isa = PBXBuildFile; fileRef = B0CC3940156F50840042DDFC /* verify.sh */; };
+		B0E1C49615CD6F3B00CCCB1B /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = B0E1C49515CD6F3A00CCCB1B /* Default.png */; };
+		B0E1C4A915D4E6E700CCCB1B /* libCordova.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B0E1C4A215D4E52A00CCCB1B /* libCordova.a */; };
+		B0E1C4AC15D4E73C00CCCB1B /* libCordova.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B0E1C4A215D4E52A00CCCB1B /* libCordova.a */; };
+		B0E1C4B415D4E98B00CCCB1B /* VERSION in Resources */ = {isa = PBXBuildFile; fileRef = B0E1C4B315D4E98B00CCCB1B /* VERSION */; };
+		B0E1C4B515D4E98B00CCCB1B /* VERSION in Resources */ = {isa = PBXBuildFile; fileRef = B0E1C4B315D4E98B00CCCB1B /* VERSION */; };
 		B0F5B44C156F54DE00DFFFED /* www in Resources */ = {isa = PBXBuildFile; fileRef = B0F5B44B156F54DE00DFFFED /* www */; };
 /* End PBXBuildFile section */
 
+/* Begin PBXContainerItemProxy section */
+		B0E1C4A115D4E52A00CCCB1B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B0E1C49715D4E52800CCCB1B /* CordovaLib.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 68A32D7114102E1C006B237C;
+			remoteInfo = CordovaLib;
+		};
+		B0E1C4A315D4E52A00CCCB1B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B0E1C49715D4E52800CCCB1B /* CordovaLib.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 686357A9141002F100DF4CF2;
+			remoteInfo = CordovaLibTests;
+		};
+		B0E1C4A515D4E52A00CCCB1B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B0E1C49715D4E52800CCCB1B /* CordovaLib.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 303A4068152124BB00182201;
+			remoteInfo = CordovaLibApp;
+		};
+		B0E1C4A715D4E6B000CCCB1B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B0E1C49715D4E52800CCCB1B /* CordovaLib.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = D2AAC07D0554694100DB518D;
+			remoteInfo = CordovaLib;
+		};
+		B0E1C4AA15D4E73500CCCB1B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = B0E1C49715D4E52800CCCB1B /* CordovaLib.xcodeproj */;
+			proxyType = 1;
+			remoteGlobalIDString = D2AAC07D0554694100DB518D;
+			remoteInfo = CordovaLib;
+		};
+/* End PBXContainerItemProxy section */
+
 /* Begin PBXFileReference section */
+		B071821E15713FC200E62CB3 /* alefbet full.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "alefbet full.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		B071822015713FC200E62CB3 /* alefbet copy-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "alefbet copy-Info.plist"; path = "/Users/roy/git/alef-bet-ios/alefbet copy-Info.plist"; sourceTree = "<absolute>"; };
 		B0CC38EB156F50830042DDFC /* alefbet.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = alefbet.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B0CC38EF156F50830042DDFC /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		B0CC38F1156F50830042DDFC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -60,7 +133,6 @@
 		B0CC390D156F50830042DDFC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		B0CC390F156F50830042DDFC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B0CC3911156F50830042DDFC /* alefbet-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "alefbet-Prefix.pch"; sourceTree = "<group>"; };
-		B0CC3912156F50830042DDFC /* Cordova.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cordova.framework; path = /Users/Shared/Cordova/Frameworks/Cordova.framework; sourceTree = "<absolute>"; };
 		B0CC3917156F50830042DDFC /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = Resources/en.lproj/Localizable.strings; sourceTree = "<group>"; };
 		B0CC391B156F50830042DDFC /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = Resources/es.lproj/Localizable.strings; sourceTree = "<group>"; };
 		B0CC391F156F50830042DDFC /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = Resources/de.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -78,15 +150,46 @@
 		B0CC393A156F50840042DDFC /* MainViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = MainViewController.m; path = Classes/MainViewController.m; sourceTree = "<group>"; };
 		B0CC393C156F50840042DDFC /* MainViewController.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = MainViewController.xib; path = Classes/MainViewController.xib; sourceTree = "<group>"; };
 		B0CC393F156F50840042DDFC /* README */ = {isa = PBXFileReference; lastKnownFileType = text; name = README; path = Plugins/README; sourceTree = "<group>"; };
-		B0CC3940156F50840042DDFC /* verify.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = verify.sh; sourceTree = "<group>"; };
+		B0E1C49515CD6F3A00CCCB1B /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		B0E1C49715D4E52800CCCB1B /* CordovaLib.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CordovaLib.xcodeproj; path = ../../Documents/CordovaLib/CordovaLib.xcodeproj; sourceTree = "<group>"; };
+		B0E1C4B315D4E98B00CCCB1B /* VERSION */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = VERSION; sourceTree = CORDOVALIB; };
 		B0F5B44B156F54DE00DFFFED /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		B07181F815713FC200E62CB3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B0E1C4AC15D4E73C00CCCB1B /* libCordova.a in Frameworks */,
+				B07181F915713FC200E62CB3 /* Foundation.framework in Frameworks */,
+				B07181FA15713FC200E62CB3 /* UIKit.framework in Frameworks */,
+				B07181FB15713FC200E62CB3 /* CoreGraphics.framework in Frameworks */,
+				B07181FC15713FC200E62CB3 /* AddressBook.framework in Frameworks */,
+				B07181FD15713FC200E62CB3 /* AddressBookUI.framework in Frameworks */,
+				B07181FE15713FC200E62CB3 /* AudioToolbox.framework in Frameworks */,
+				B07181FF15713FC200E62CB3 /* AVFoundation.framework in Frameworks */,
+				B071820015713FC200E62CB3 /* CoreLocation.framework in Frameworks */,
+				B071820115713FC200E62CB3 /* MediaPlayer.framework in Frameworks */,
+				B071820215713FC200E62CB3 /* QuartzCore.framework in Frameworks */,
+				B071820315713FC200E62CB3 /* SystemConfiguration.framework in Frameworks */,
+				B071820415713FC200E62CB3 /* MobileCoreServices.framework in Frameworks */,
+				B071820515713FC200E62CB3 /* CoreMedia.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B071821815713FC200E62CB3 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		B0CC38E5156F50830042DDFC /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B0E1C4A915D4E6E700CCCB1B /* libCordova.a in Frameworks */,
 				B0CC38F0156F50830042DDFC /* Foundation.framework in Frameworks */,
 				B0CC38F2156F50830042DDFC /* UIKit.framework in Frameworks */,
 				B0CC38F4156F50830042DDFC /* CoreGraphics.framework in Frameworks */,
@@ -100,7 +203,6 @@
 				B0CC3904156F50830042DDFC /* SystemConfiguration.framework in Frameworks */,
 				B0CC3906156F50830042DDFC /* MobileCoreServices.framework in Frameworks */,
 				B0CC3908156F50830042DDFC /* CoreMedia.framework in Frameworks */,
-				B0CC3913156F50830042DDFC /* Cordova.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -117,10 +219,14 @@
 		B0CC38DD156F507D0042DDFC = {
 			isa = PBXGroup;
 			children = (
+				B0E1C4B315D4E98B00CCCB1B /* VERSION */,
+				B0E1C49715D4E52800CCCB1B /* CordovaLib.xcodeproj */,
+				B0E1C49515CD6F3A00CCCB1B /* Default.png */,
 				B0F5B44B156F54DE00DFFFED /* www */,
 				B0CC3909156F50830042DDFC /* alefbet */,
 				B0CC38EE156F50830042DDFC /* Frameworks */,
 				B0CC38EC156F50830042DDFC /* Products */,
+				B071822015713FC200E62CB3 /* alefbet copy-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -128,6 +234,7 @@
 			isa = PBXGroup;
 			children = (
 				B0CC38EB156F50830042DDFC /* alefbet.app */,
+				B071821E15713FC200E62CB3 /* alefbet full.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -155,7 +262,6 @@
 		B0CC3909156F50830042DDFC /* alefbet */ = {
 			isa = PBXGroup;
 			children = (
-				B0CC3912156F50830042DDFC /* Cordova.framework */,
 				B0CC3914156F50830042DDFC /* Resources */,
 				B0CC3935156F50840042DDFC /* Classes */,
 				B0CC393E156F50840042DDFC /* Plugins */,
@@ -173,7 +279,6 @@
 				B0CC3911156F50830042DDFC /* alefbet-Prefix.pch */,
 				B0CC3933156F50840042DDFC /* Cordova.plist */,
 				B0CC393C156F50840042DDFC /* MainViewController.xib */,
-				B0CC3940156F50840042DDFC /* verify.sh */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -262,9 +367,39 @@
 			name = Plugins;
 			sourceTree = "<group>";
 		};
+		B0E1C49815D4E52800CCCB1B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				B0E1C4A215D4E52A00CCCB1B /* libCordova.a */,
+				B0E1C4A415D4E52A00CCCB1B /* CordovaLibTests.octest */,
+				B0E1C4A615D4E52A00CCCB1B /* CordovaLibApp.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		B07181F315713FC200E62CB3 /* alefbet.full */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = B071821A15713FC200E62CB3 /* Build configuration list for PBXNativeTarget "alefbet.full" */;
+			buildPhases = (
+				B07181F415713FC200E62CB3 /* Sources */,
+				B07181F815713FC200E62CB3 /* Frameworks */,
+				B071820715713FC200E62CB3 /* Resources */,
+				B071821715713FC200E62CB3 /* Sources */,
+				B071821815713FC200E62CB3 /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				B0E1C4AB15D4E73500CCCB1B /* PBXTargetDependency */,
+			);
+			name = alefbet.full;
+			productName = alefbet;
+			productReference = B071821E15713FC200E62CB3 /* alefbet full.app */;
+			productType = "com.apple.product-type.application";
+		};
 		B0CC38EA156F50830042DDFC /* alefbet */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = B0CC3944156F50840042DDFC /* Build configuration list for PBXNativeTarget "alefbet" */;
@@ -274,11 +409,11 @@
 				B0CC38E6156F50830042DDFC /* Resources */,
 				B0CC38E7156F50830042DDFC /* Sources */,
 				B0CC38E8156F50830042DDFC /* Frameworks */,
-				B0CC38E9156F50830042DDFC /* ShellScript */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				B0E1C4A815D4E6B000CCCB1B /* PBXTargetDependency */,
 			);
 			name = alefbet;
 			productName = alefbet;
@@ -291,7 +426,7 @@
 		B0CC38DF156F507D0042DDFC /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0420;
+				LastUpgradeCheck = 0430;
 				ORGANIZATIONNAME = "ganoro@gmail.com";
 			};
 			buildConfigurationList = B0CC38E2156F507D0042DDFC /* Build configuration list for PBXProject "alefbet" */;
@@ -307,14 +442,67 @@
 			mainGroup = B0CC38DD156F507D0042DDFC;
 			productRefGroup = B0CC38EC156F50830042DDFC /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = B0E1C49815D4E52800CCCB1B /* Products */;
+					ProjectRef = B0E1C49715D4E52800CCCB1B /* CordovaLib.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				B0CC38EA156F50830042DDFC /* alefbet */,
+				B07181F315713FC200E62CB3 /* alefbet.full */,
 			);
 		};
 /* End PBXProject section */
 
+/* Begin PBXReferenceProxy section */
+		B0E1C4A215D4E52A00CCCB1B /* libCordova.a */ = {
+			isa = PBXReferenceProxy;
+			fileType = archive.ar;
+			path = libCordova.a;
+			remoteRef = B0E1C4A115D4E52A00CCCB1B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B0E1C4A415D4E52A00CCCB1B /* CordovaLibTests.octest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = CordovaLibTests.octest;
+			remoteRef = B0E1C4A315D4E52A00CCCB1B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		B0E1C4A615D4E52A00CCCB1B /* CordovaLibApp.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = CordovaLibApp.app;
+			remoteRef = B0E1C4A515D4E52A00CCCB1B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
 /* Begin PBXResourcesBuildPhase section */
+		B071820715713FC200E62CB3 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B071820815713FC200E62CB3 /* InfoPlist.strings in Resources */,
+				B071820915713FC200E62CB3 /* Localizable.strings in Resources */,
+				B071820A15713FC200E62CB3 /* Localizable.strings in Resources */,
+				B071820B15713FC200E62CB3 /* Localizable.strings in Resources */,
+				B071820C15713FC200E62CB3 /* Localizable.strings in Resources */,
+				B071820D15713FC200E62CB3 /* icon.png in Resources */,
+				B071820E15713FC200E62CB3 /* icon@2x.png in Resources */,
+				B071820F15713FC200E62CB3 /* icon-72.png in Resources */,
+				B071821015713FC200E62CB3 /* Default~iphone.png in Resources */,
+				B071821115713FC200E62CB3 /* Default@2x~iphone.png in Resources */,
+				B071821215713FC200E62CB3 /* Capture.bundle in Resources */,
+				B071821315713FC200E62CB3 /* Cordova.plist in Resources */,
+				B071821415713FC200E62CB3 /* MainViewController.xib in Resources */,
+				B071821615713FC200E62CB3 /* www in Resources */,
+				B0E1C4B515D4E98B00CCCB1B /* VERSION in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		B0CC38E6156F50830042DDFC /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -332,30 +520,32 @@
 				B0CC3932156F50840042DDFC /* Capture.bundle in Resources */,
 				B0CC3934156F50840042DDFC /* Cordova.plist in Resources */,
 				B0CC393D156F50840042DDFC /* MainViewController.xib in Resources */,
-				B0CC3941156F50840042DDFC /* verify.sh in Resources */,
 				B0F5B44C156F54DE00DFFFED /* www in Resources */,
+				B0E1C49615CD6F3B00CCCB1B /* Default.png in Resources */,
+				B0E1C4B415D4E98B00CCCB1B /* VERSION in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
-/* Begin PBXShellScriptBuildPhase section */
-		B0CC38E9156F50830042DDFC /* ShellScript */ = {
-			isa = PBXShellScriptBuildPhase;
+/* Begin PBXSourcesBuildPhase section */
+		B07181F415713FC200E62CB3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				B07181F515713FC200E62CB3 /* main.m in Sources */,
+				B07181F615713FC200E62CB3 /* AppDelegate.m in Sources */,
+				B07181F715713FC200E62CB3 /* MainViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		B071821715713FC200E62CB3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
-			inputPaths = (
-			);
-			outputPaths = (
-			);
 			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/bash;
-			shellScript = "\n\t\t\t\t\t\t\t\tchmod 755 \"$PROJECT_DIR/$PROJECT_NAME/verify.sh\"\n\t\t\t\t\t\t\t\t\"$PROJECT_DIR/$PROJECT_NAME/verify.sh\"\n\t\t\t\t\t";
 		};
-/* End PBXShellScriptBuildPhase section */
-
-/* Begin PBXSourcesBuildPhase section */
 		B0CC38E4156F50830042DDFC /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -374,6 +564,19 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		B0E1C4A815D4E6B000CCCB1B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = CordovaLib;
+			targetProxy = B0E1C4A715D4E6B000CCCB1B /* PBXContainerItemProxy */;
+		};
+		B0E1C4AB15D4E73500CCCB1B /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			name = CordovaLib;
+			targetProxy = B0E1C4AA15D4E73500CCCB1B /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		B0CC390C156F50830042DDFC /* InfoPlist.strings */ = {
@@ -419,6 +622,123 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
+		B071821B15713FC200E62CB3 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				CODE_SIGN_ENTITLEMENTS = "";
+				CODE_SIGN_IDENTITY = "";
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					/Users/Shared/Cordova/Frameworks,
+					"\"$(TARGET_BUILD_DIR)/usr/local/lib/include\"",
+					"\"$(OBJROOT)/UninstalledProducts/include\"",
+					"\"$(BUILT_PRODUCTS_DIR)\"",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "alefbet/alefbet-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = "DEBUG=1";
+				GCC_THUMB_SUPPORT = NO;
+				INFOPLIST_FILE = "alefbet full-Info.plist";
+				OTHER_LDFLAGS = (
+					"-weak_framework",
+					UIKit,
+					"-weak_framework",
+					AVFoundation,
+					"-weak_framework",
+					CoreMedia,
+					"-weak_library",
+					/usr/lib/libSystem.B.dylib,
+					"-all_load",
+					"-Obj-C",
+				);
+				PRODUCT_NAME = "alefbet full";
+				SKIP_INSTALL = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		B071821C15713FC200E62CB3 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				CODE_SIGN_ENTITLEMENTS = "";
+				CODE_SIGN_IDENTITY = "";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = (
+					/Users/Shared/Cordova/Frameworks,
+					"\"$(TARGET_BUILD_DIR)/usr/local/lib/include\"",
+					"\"$(OBJROOT)/UninstalledProducts/include\"",
+					"\"$(BUILT_PRODUCTS_DIR)\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "alefbet/alefbet-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = "NDEBUG=1";
+				GCC_THUMB_SUPPORT = NO;
+				INFOPLIST_FILE = "alefbet full-Info.plist";
+				OTHER_LDFLAGS = (
+					"-weak_framework",
+					UIKit,
+					"-weak_framework",
+					AVFoundation,
+					"-weak_framework",
+					CoreMedia,
+					"-weak_library",
+					/usr/lib/libSystem.B.dylib,
+					"-all_load",
+					"-Obj-C",
+				);
+				PRODUCT_NAME = "alefbet full";
+				SKIP_INSTALL = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		B071821D15713FC200E62CB3 /* AppStore */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = YES;
+				CODE_SIGN_ENTITLEMENTS = "";
+				CODE_SIGN_IDENTITY = "iPhone Distribution: Roi Ganor";
+				COPY_PHASE_STRIP = YES;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = (
+					/Users/Shared/Cordova/Frameworks,
+					"\"$(TARGET_BUILD_DIR)/usr/local/lib/include\"",
+					"\"$(OBJROOT)/UninstalledProducts/include\"",
+					"\"$(BUILT_PRODUCTS_DIR)\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "alefbet/alefbet-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = "NDEBUG=1";
+				GCC_THUMB_SUPPORT = NO;
+				INFOPLIST_FILE = "alefbet full-Info.plist";
+				OTHER_LDFLAGS = (
+					"-weak_framework",
+					UIKit,
+					"-weak_framework",
+					AVFoundation,
+					"-weak_framework",
+					CoreMedia,
+					"-weak_library",
+					/usr/lib/libSystem.B.dylib,
+					"-all_load",
+					"-Obj-C",
+				);
+				PRODUCT_NAME = "alefbet full";
+				PROVISIONING_PROFILE = "4A5E82D9-D07B-4939-80B6-6355807BA1B8";
+				SKIP_INSTALL = NO;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = NO;
+				WRAPPER_EXTENSION = app;
+			};
+			name = AppStore;
+		};
 		B0CC3942156F50840042DDFC /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -437,6 +757,7 @@
 					"$(inherited)",
 				);
 				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -457,6 +778,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -473,15 +795,19 @@
 				ALWAYS_SEARCH_USER_PATHS = YES;
 				CODE_SIGN_ENTITLEMENTS = "";
 				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Roi Ganor (2KWG3XC5EK)";
 				COPY_PHASE_STRIP = NO;
-				FRAMEWORK_SEARCH_PATHS = /Users/Shared/Cordova/Frameworks;
+				FRAMEWORK_SEARCH_PATHS = (
+					/Users/Shared/Cordova/Frameworks,
+					"\"$(TARGET_BUILD_DIR)/usr/local/lib/include\"\n\n\n\"$(OBJROOT)/UninstalledProducts/include\"\n\n\n\"$(BUILT_PRODUCTS_DIR)\"",
+					"\"$(BUILT_PRODUCTS_DIR)\"",
+					"\"$(OBJROOT)/UninstalledProducts/include\"\n\"$(OBJROOT)/UninstalledProducts/include\"\n\"$(OBJROOT)/UninstalledProducts/include\"",
+				);
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "alefbet/alefbet-Prefix.pch";
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1,",
-					"CORDOVA_FRAMEWORK=1",
-				);
+				GCC_PREPROCESSOR_DEFINITIONS = "DEBUG=1";
+				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "alefbet/alefbet-Info.plist";
 				OTHER_LDFLAGS = (
 					"-weak_framework",
@@ -492,8 +818,11 @@
 					CoreMedia,
 					"-weak_library",
 					/usr/lib/libSystem.B.dylib,
+					"-Obj-C",
+					"-all_load",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				"PROVISIONING_PROFILE[sdk=iphoneos*]" = "4258B2F5-B411-40F9-9E7A-B1F08B878B44";
 				SKIP_INSTALL = NO;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				WRAPPER_EXTENSION = app;
@@ -508,13 +837,16 @@
 				CODE_SIGN_IDENTITY = "";
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				FRAMEWORK_SEARCH_PATHS = /Users/Shared/Cordova/Frameworks;
+				FRAMEWORK_SEARCH_PATHS = (
+					/Users/Shared/Cordova/Frameworks,
+					"\"$(TARGET_BUILD_DIR)/usr/local/lib/include\"\n\n\n\"$(OBJROOT)/UninstalledProducts/include\"\n\n\n\"$(BUILT_PRODUCTS_DIR)\"",
+					"\"$(BUILT_PRODUCTS_DIR)\"",
+					"\"$(OBJROOT)/UninstalledProducts/include\"\n\"$(OBJROOT)/UninstalledProducts/include\"\n\"$(OBJROOT)/UninstalledProducts/include\"",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "alefbet/alefbet-Prefix.pch";
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"NDEBUG=1,",
-					"CORDOVA_FRAMEWORK=1",
-				);
+				GCC_PREPROCESSOR_DEFINITIONS = "NDEBUG=1";
+				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "alefbet/alefbet-Info.plist";
 				OTHER_LDFLAGS = (
 					"-weak_framework",
@@ -525,6 +857,8 @@
 					CoreMedia,
 					"-weak_library",
 					/usr/lib/libSystem.B.dylib,
+					"-Obj-C",
+					"-all_load",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = NO;
@@ -546,6 +880,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				COPY_PHASE_STRIP = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_THUMB_SUPPORT = NO;
 				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
@@ -566,13 +901,16 @@
 				CODE_SIGN_IDENTITY = "iPhone Distribution: Roi Ganor";
 				COPY_PHASE_STRIP = YES;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
-				FRAMEWORK_SEARCH_PATHS = /Users/Shared/Cordova/Frameworks;
+				FRAMEWORK_SEARCH_PATHS = (
+					/Users/Shared/Cordova/Frameworks,
+					"\"$(TARGET_BUILD_DIR)/usr/local/lib/include\"\n\n\n\"$(OBJROOT)/UninstalledProducts/include\"\n\n\n\"$(BUILT_PRODUCTS_DIR)\"",
+					"\"$(BUILT_PRODUCTS_DIR)\"",
+					"\"$(OBJROOT)/UninstalledProducts/include\"\n\"$(OBJROOT)/UninstalledProducts/include\"\n\"$(OBJROOT)/UninstalledProducts/include\"",
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "alefbet/alefbet-Prefix.pch";
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"NDEBUG=1,",
-					"CORDOVA_FRAMEWORK=1",
-				);
+				GCC_PREPROCESSOR_DEFINITIONS = "NDEBUG=1";
+				GCC_THUMB_SUPPORT = NO;
 				INFOPLIST_FILE = "alefbet/alefbet-Info.plist";
 				OTHER_LDFLAGS = (
 					"-weak_framework",
@@ -583,6 +921,8 @@
 					CoreMedia,
 					"-weak_library",
 					/usr/lib/libSystem.B.dylib,
+					"-Obj-C",
+					"-all_load",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE = "804F06B8-DA15-4533-A7DD-D1F775BA4701";
@@ -596,6 +936,16 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		B071821A15713FC200E62CB3 /* Build configuration list for PBXNativeTarget "alefbet.full" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				B071821B15713FC200E62CB3 /* Debug */,
+				B071821C15713FC200E62CB3 /* Release */,
+				B071821D15713FC200E62CB3 /* AppStore */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		B0CC38E2156F507D0042DDFC /* Build configuration list for PBXProject "alefbet" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (

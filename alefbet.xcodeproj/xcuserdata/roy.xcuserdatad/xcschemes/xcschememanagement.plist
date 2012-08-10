@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>alefbet copy.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>alefbet-AppStore.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
@@ -17,6 +22,11 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
+		<key>B07181F315713FC200E62CB3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>B0CC38EA156F50830042DDFC</key>
 		<dict>
 			<key>primary</key>
